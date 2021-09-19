@@ -1,4 +1,4 @@
-from flask import Flask, render_templat
+from flask import Flask, render_template
 from post import Post
 import requests
 
